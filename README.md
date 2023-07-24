@@ -10,3 +10,5 @@ examples of human actions to stop climate change: planting trees, and energy pro
 System requirements.
 The application was created in Microsoft Power BI Desktop, version: 2.117.984.0 64-bit (May 2023). 
 To access this BI application, the user must have Microsoft Power BI Desktop installed. 
+
+The project is available in a Polish language version.
